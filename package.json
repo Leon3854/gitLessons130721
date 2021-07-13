@@ -1,0 +1,23 @@
+{
+  "name": "gitlessons130721",
+  "version": "1.0.0",
+  "description": "git Lesson for example only my pracktics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leon3854/gitLessons130721.git"
+  },
+  "keywords": [
+    "git",
+    "GitHub"
+  ],
+  "author": "Leon3854",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leon3854/gitLessons130721/issues"
+  },
+  "homepage": "https://github.com/Leon3854/gitLessons130721#readme"
+}
